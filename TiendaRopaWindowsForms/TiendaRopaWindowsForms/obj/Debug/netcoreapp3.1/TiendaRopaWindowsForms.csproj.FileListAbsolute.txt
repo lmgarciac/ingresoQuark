@@ -1,0 +1,16 @@
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\bin\Debug\netcoreapp3.1\TiendaRopaWindowsForms.exe
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\bin\Debug\netcoreapp3.1\TiendaRopaWindowsForms.deps.json
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\bin\Debug\netcoreapp3.1\TiendaRopaWindowsForms.runtimeconfig.json
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\bin\Debug\netcoreapp3.1\TiendaRopaWindowsForms.runtimeconfig.dev.json
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\bin\Debug\netcoreapp3.1\TiendaRopaWindowsForms.dll
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\bin\Debug\netcoreapp3.1\TiendaRopaWindowsForms.pdb
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\obj\Debug\netcoreapp3.1\TiendaRopaWindowsForms.csproj.AssemblyReference.cache
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\obj\Debug\netcoreapp3.1\TiendaRopaWindowsForms.Form1.resources
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\obj\Debug\netcoreapp3.1\TiendaRopaWindowsForms.csproj.GenerateResource.cache
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\obj\Debug\netcoreapp3.1\TiendaRopaWindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\obj\Debug\netcoreapp3.1\TiendaRopaWindowsForms.AssemblyInfoInputs.cache
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\obj\Debug\netcoreapp3.1\TiendaRopaWindowsForms.AssemblyInfo.cs
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\obj\Debug\netcoreapp3.1\TiendaRopaWindowsForms.csproj.CoreCompileInputs.cache
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\obj\Debug\netcoreapp3.1\TiendaRopaWindowsForms.dll
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\obj\Debug\netcoreapp3.1\TiendaRopaWindowsForms.pdb
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopaWindowsForms\TiendaRopaWindowsForms\obj\Debug\netcoreapp3.1\TiendaRopaWindowsForms.genruntimeconfig.cache

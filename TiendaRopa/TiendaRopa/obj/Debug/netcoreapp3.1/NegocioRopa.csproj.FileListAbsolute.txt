@@ -1,0 +1,14 @@
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\obj\Debug\netcoreapp3.1\NegocioRopa.csproj.AssemblyReference.cache
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\obj\Debug\netcoreapp3.1\NegocioRopa.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\obj\Debug\netcoreapp3.1\NegocioRopa.AssemblyInfoInputs.cache
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\obj\Debug\netcoreapp3.1\NegocioRopa.AssemblyInfo.cs
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\obj\Debug\netcoreapp3.1\NegocioRopa.csproj.CoreCompileInputs.cache
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\bin\Debug\netcoreapp3.1\NegocioRopa.exe
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\bin\Debug\netcoreapp3.1\NegocioRopa.deps.json
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\bin\Debug\netcoreapp3.1\NegocioRopa.runtimeconfig.json
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\bin\Debug\netcoreapp3.1\NegocioRopa.runtimeconfig.dev.json
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\bin\Debug\netcoreapp3.1\NegocioRopa.dll
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\bin\Debug\netcoreapp3.1\NegocioRopa.pdb
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\obj\Debug\netcoreapp3.1\NegocioRopa.dll
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\obj\Debug\netcoreapp3.1\NegocioRopa.pdb
+C:\TestQuarkAcademy\ingresoQuark\TiendaRopa\TiendaRopa\obj\Debug\netcoreapp3.1\NegocioRopa.genruntimeconfig.cache
